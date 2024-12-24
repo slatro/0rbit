@@ -271,7 +271,7 @@ Send({Target= "O3SXXYqQCNTbBedJjsW6wkPnrKFZq8DPLkKjO7zhztE", Action = "Claim", Q
 
 > Daha fazlası olursa buraya eklerim Neo.
 
-> Selametle..
+> Selametle...
 
 
 
